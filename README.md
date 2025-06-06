@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Juan (@juanjaho)
+# 👋 Hi there, I'm Juan
 
 ## 🚀 About Me
 
