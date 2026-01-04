@@ -4,7 +4,6 @@
 
 - 🏢 Solution Architect & Technical Project Lead at **Botmind**
 - 🛠️ Main tech stack: **TypeScript** & **Python**
-- 👁️ Favorite project: A confidential government collaboration
 
 ## 🌟 What I Do
 
