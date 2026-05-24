@@ -2,16 +2,11 @@
 
 ## 🚀 About Me
 
-- 🏢 Solution Architect & Technical Project Lead at **Botmind**
-- 🛠️ Main tech stack: **TypeScript** & **Python**
+- 🏢 Building solutions that should have existed decades ago.
 
 ## 🌟 What I Do
 
-As a Solution Architect and Technical Project Lead, I design, build, and deliver solutions that bridge the gap between business needs and technical excellence. I thrive on turning complex problems into elegant software—especially when it comes to real-time data and intelligent systems.
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sebastianjuan/)
+I am building things that probably should have existed decades ago. 
 
 ## 🧊 Fun Fact
 
